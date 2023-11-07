@@ -4,5 +4,5 @@
 /**
  * 
  */
-module OlaMundo {
+module LacosCondicionais {
 }
